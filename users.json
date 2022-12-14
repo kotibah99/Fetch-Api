@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "username":"kotibah mohamad" ,
+        "email" : "kotibahmoh123@email.com"
+    } ,
+    {
+        "id" : 2,
+        "username":"ali ali" ,
+        "email" : "ali@email.com"
+    } ,
+    {
+        "id" : 3,
+        "username":"ahmad ali" ,
+        "email" : "ahmad@email.com"
+    }
+]
